@@ -72,4 +72,4 @@ areas can also aggravate the human health impact of extreme heat in cities.*"
 
 
 Other useful sources 
-(Red Cross Guide)[https://www.climatecentre.org/downloads/files/IFRCGeneva/RCCC%20Heatwave%20Guide%202019%20A4%20RR%20ONLINE%20copy.pdf]
+[Red Cross Guid](https://www.climatecentre.org/downloads/files/IFRCGeneva/RCCC%20Heatwave%20Guide%202019%20A4%20RR%20ONLINE%20copy.pdf)
