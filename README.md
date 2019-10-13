@@ -19,24 +19,41 @@ solutions.**
 		
 
 **Types of Impact** 
+
 1. Direct Impacts 
+
     **People** 
+    
       A. Health issues: dehydration, heat exhaustion, heat stroke
+      
       B. Populations at risks: Elderly, infants, outdoor workers
+      
       C. Need for emergencies: emergency services readiness and capacity 
+      
     **Infrastructures** 
+    
       C. Road surface melting 
+      
     **Supplies** 
+    
       D. Electricity consumption 
+      
       E. Water consumption 
+      
     **Fauna and Flora** 
+    
       F. 
       
  2. Indirect Impacts 
+ 
     **Economy** 
+    
     A. Productivity decrease 
+    
     B. Healthcare costs & insurance premiums increase
+    
     **Infrastructures** 
+    
     
     
     
