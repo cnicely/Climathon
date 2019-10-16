@@ -1,6 +1,7 @@
 This section gathers multiple sources of data of the economy of Sydney as it relates to Climate Change & Heatwaves
 
 
+
 [National GDP Data](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/5206.0Jun%202019?OpenDocument)
 
 **Format**: Data Portal
@@ -10,7 +11,7 @@ This section gathers multiple sources of data of the economy of Sydney as it rel
 **Why**: Timeseries data of Australia GDP to possibly compare with heatwaves
 
 
-[C40 Cities] (https://www.c40.org/other/the-future-we-don-t-want-for-cities-the-heat-is-on)
+[C40 Cities](https://www.c40.org/other/the-future-we-don-t-want-for-cities-the-heat-is-on)
 
 **Format**: Article
 
