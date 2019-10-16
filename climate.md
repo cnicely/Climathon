@@ -41,4 +41,18 @@ To give you more context, we also added non-quantitative sources.
 
 **What**: Heatwaves assessment and forecasts.  
 
+6. [Red Cross White Paper about the Urban Heatwaves](https://www.climatecentre.org/downloads/files/IFRCGeneva/RCCC%20Heatwave%20Guide%202019%20A4%20RR%20ONLINE%20copy.pdf)
+
+**Format**: PDF 
+
+**What**: Understanding the phenonemon, how cities are impactes and what types of impacted they face. The white paper also gives recommendations to the cities. 
+
+7. [AdaptNSW - Understanding the heatwaves](https://climatechange.environment.nsw.gov.au/Impacts-of-climate-change/Heat/Heatwaves)
+
+**Format**: PDF 
+
+**What**: Report about the impact of heatwaves for NSW specifically. 
+
+
+
 
