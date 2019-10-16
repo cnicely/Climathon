@@ -11,6 +11,27 @@ This section gathers multiple sources of data of the economy of Sydney as it rel
 **Why**: Timeseries data of Australia GDP to possibly compare with heatwaves
 
 
+
+[ABS Healthcare: Causes of Death](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3303.02018?OpenDocument)
+
+**Format**: Data Portal
+
+**What**: ABS Causes of Death
+
+**Why**: Correlating heat related deaths with heatwaves
+
+
+
+[ABS Healthcare: Causes of Death](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3303.02018?OpenDocument)
+
+**Format**: Data Portal
+
+**What**: ABS Causes of Death
+
+**Why**: Correlating heat related deaths with heatwaves
+
+
+
 [C40 Cities](https://www.c40.org/other/the-future-we-don-t-want-for-cities-the-heat-is-on)
 
 **Format**: Article
