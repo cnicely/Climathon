@@ -35,7 +35,7 @@ To give you more context, we also added non-quantitative sources.
 **What**: Climate trends and extremes in NSW through different dimensions 
 
 
-5.[Heatwave Service for Australia](http://www.bom.gov.au/australia/heatwave/index.shtml)
+5. [Heatwave Service for Australia](http://www.bom.gov.au/australia/heatwave/index.shtml)
 
 **Format**: Website page 
 
