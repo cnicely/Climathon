@@ -16,7 +16,9 @@ impacts, such as preventative services (e.g. retro-fitting), early detection and
 systems, severity reduction tools, response optimisation and recovery management
 solutions.**	
 		
-		
+**What is a heatwave?**
+
+"A heatwave is defined as at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date" 
 
 **Types of Impact** 
 
